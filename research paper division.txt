@@ -1,0 +1,11 @@
+Hasan
+1. Identifying Purchase Intentions by Extracting Information from Tweets
+2. TweetAnalyst-ProjectReport
+
+Ammar
+1. A_Latent-class_Model_for_Estimating_Product-choice
+2. Identifying Purchase Intent from Social Posts
+
+Saad
+1. PredictingtheconsumerspurchaseintentionofdurablegoodsAnattribute-levelanalysis
+2. Using recurrent neural networks to predict customer behavior from interaction data
